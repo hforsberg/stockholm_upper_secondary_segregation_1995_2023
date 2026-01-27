@@ -1,10 +1,12 @@
 # stockholm_upper_secondary_segregation_1995_2023
-Replication code and figures for The Swedish ‘experiment’ with marketization: evidence on two decades of school segregation in an urban school market.
+Replication code and figures for the article 
+“The Swedish ‘experiment’ with marketization: evidence on two decades of school segregation in an urban school market”.
 
-Publication: Under review in Acta Sociologica
+Publication status: Under review in Acta Sociologica
 
 ## Data
-The data supporting the results of this study are available from Statistics Sweden. There are restrictions on the availability of these data, which have been used under licence for this study. 
+The data supporting the results of this study are register-based microdata from Statistics Sweden (SCB) and cannot be shared publicly.
+There are restrictions on the availability of these data, which have been used under licence for this study. 
 The data are available at https://www.scb.se/en/services/ordering-data-and-statistics/ordering-microdata/ with permission from Statistics Sweden.
 
 ## Registeras used
